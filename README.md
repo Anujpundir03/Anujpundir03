@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Anuj Kumar
 
-🎓 BCA Graduate | 💻 Aspiring Data Analyst  
+🎓 MCA Student | 💻 Aspiring Data Analyst  
 🔧 Tools: Python | SQL | Power BI | Pandas | Excel  
 📊 Love turning raw data into insights  
 📫 How to reach me: [LinkedIn](www.linkedin.com/in/anujkumar031205)
